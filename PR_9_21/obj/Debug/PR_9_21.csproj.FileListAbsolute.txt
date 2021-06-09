@@ -1,0 +1,14 @@
+E:\PR_9_21\PR_9_21\bin\Debug\PR_9_21.exe.config
+E:\PR_9_21\PR_9_21\bin\Debug\PR_9_21.exe
+E:\PR_9_21\PR_9_21\bin\Debug\PR_9_21.pdb
+E:\PR_9_21\PR_9_21\obj\Debug\PR_9_21.csprojAssemblyReference.cache
+E:\PR_9_21\PR_9_21\obj\Debug\PR_9_21.csproj.CoreCompileInputs.cache
+E:\PR_9_21\PR_9_21\obj\Debug\PR_9_21.exe
+E:\PR_9_21\PR_9_21\obj\Debug\PR_9_21.pdb
+E:\PR_10_21\PR_9_21\bin\Debug\PR_9_21.exe.config
+E:\PR_10_21\PR_9_21\bin\Debug\PR_9_21.exe
+E:\PR_10_21\PR_9_21\bin\Debug\PR_9_21.pdb
+E:\PR_10_21\PR_9_21\obj\Debug\PR_9_21.csprojAssemblyReference.cache
+E:\PR_10_21\PR_9_21\obj\Debug\PR_9_21.exe
+E:\PR_10_21\PR_9_21\obj\Debug\PR_9_21.pdb
+E:\PR_10_21\PR_9_21\obj\Debug\PR_9_21.csproj.CoreCompileInputs.cache
